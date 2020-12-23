@@ -1,4 +1,4 @@
-[![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://travis-ci.org/twbs/bootstrap) ![Active installs](https://img.shields.io/badge/Active-2000%2B-brightgreen) ![License](https://img.shields.io/badge/License-GPLv3%20or%20later-yellowgreen) ![WP tested](https://img.shields.io/badge/WP%20tested-5.6-brightgreen) ![WC tested](https://img.shields.io/badge/WC%20tested-4.7.0-brightgreen) ![Requires PHP](https://img.shields.io/badge/Requires%20PHP-5.6-blue)
+[![Build Status](https://img.shields.io/travis/twbs/bootstrap/v4-dev.svg)](https://travis-ci.org/twbs/bootstrap) ![Active installs](https://img.shields.io/badge/Active-2000%2B-brightgreen) ![License](https://img.shields.io/badge/License-GPLv3%20or%20later-yellowgreen) ![WP tested](https://img.shields.io/badge/WP%20tested-5.6-brightgreen) ![WC tested](https://img.shields.io/badge/WC%20tested-4.8.0-brightgreen) ![Requires PHP](https://img.shields.io/badge/Requires%20PHP-5.6-blue)
 # Return Refund and Exchange For WooCommerce
 ![Return Refund and Exchange For WooCommerce](https://ps.w.org/woo-refund-and-exchange-lite/assets/banner-772x250.png?rev=2409881)
 * Contributors:MakeWebBetter
@@ -11,7 +11,7 @@ _HIGHEST-RATED REFUND AND EXCHANGE MANAGEMENT PLUGIN THAT LIFTS CUSTOMER SATISFA
 
 **Return Refund and Exchange for WooCommerce** lets you create a simple refund management system stuffed with an organized exchange, wallet, cancel features. It saves time on complaints, calls disputes, and the hurdles of managing stock. Customers can request full or partial refunds from their accounts with a justification statement. The whole process goes under a dedicated and streamlined mailing system that keeps both parties on the same note. Ultimately leads to easy returns & increased customer satisfaction.
 
-[![Watch the video](https://shorturl.at/hyW38)](https://youtu.be/z0kG75E60TI)
+[![Watch the video](https://i.ytimg.com/vi/z0kG75E60TI/maxresdefault.jpg)](https://youtu.be/z0kG75E60TI)
 
 
 ## WITH THE RETURN REFUND AND EXCHANGE FOR WOOCOMMERCE PLUGIN YOU CAN:
@@ -74,11 +74,35 @@ Visit [**Return Refund and Exchange For WooCommerce Documentation**](http://docs
 - Compatibility with Ultimate WooCommerce Gift Cards
 - Shortcode of product table and the refundable amount for Refund Mails
 
-Make a smart move with [**Premium Version of Refund and Exchange**](https://makewebbetter.com/product/woocommerce-rma-return-refund-exchange/?utm_source=MWB-RMA-git&utm_medium=MWB-git-Page&utm_campaign=MWB-RMA1)
+_Make a smart move with [**Premium Version of Refund and Exchange**](https://makewebbetter.com/product/woocommerce-rma-return-refund-exchange/?utm_source=MWB-RMA-git&utm_medium=MWB-git-Page&utm_campaign=MWB-RMA1)_
 
 ## LIVE DEMO OF PREMIUM VERSION
 [**RMA For Return Refund & Exchange Frontend demo**](https://demo.makewebbetter.com/woocommerce-rma-for-return-refund-and-exchange/my-account/orders/?visitor=true&utm_source=MWB-RMA-git&utm_medium=MWB-git-Page&utm_campaign=MWB-frontend_demo)
+
 [**RMA For Return Refund & Exchange Backend demo**](https://demo.makewebbetter.com/woocommerce-rma-for-return-refund-and-exchange/get-your-personal-demo/?utm_source=MWB-RMA-git&utm_medium=MWB-git-Page&utm_campaign=MWB-backend_demo)
 
 ## SUPPORT
 If you need support or have any question then kindly use our online chat window [here](https://makewebbetter.com/?utm_source=MWB-RMA-git&utm_medium=MWB-git-page&utm_campaign=MWB-RMA-git) or connect with us then [Generate a Ticket](https://makewebbetter.com/submit-query/)
+
+## FAQ
+### How to setup the Refund Products?
+Please reach the woocommerce menu -> Refund Exchange Lite Configuration setting -> Click on the Refund Product -> Enable Refund Request setting.
+
+### How to place the Refund button in Thank you and My-Account page?
+You can easily go to the Woocommerce -> Settings -> Refund Exchange Lite setting ->Refund Products and set the following points.
+1) Enable Refund Request.
+2) Set a maximum number of days.
+3) Select the order status in which the order can be refunded.
+
+### How to set the order status for the orders which need to be refunded?
+It's a very easy way, go to the Woocommerce -> Settings ->Refund Exchange Lite setting ->Refund  Products and Select the order status in which the order can be Refund.
+
+### How to use a mail configuration setting?
+1) Refund Exchange Lite Setting -> Mail configuration -> Basic setting -> Set header.  
+2) Refund Exchange Lite Setting -> Mail configuration ->Refund ->and then fill  all details.
+
+### Can a customer and admin communicate while processing a refund request?
+Yes, customers and admin can communicate while processing a refund request. The whole process goes under a dedicated and streamlined system which would help to keep both the parties on the same note.
+
+### How can a customer send an attachment with a refund request?
+When a customer clicks on the refund button then on the refund request form customer will get an option to upload the attachment. Customers can also add more than one attachment in their request.
