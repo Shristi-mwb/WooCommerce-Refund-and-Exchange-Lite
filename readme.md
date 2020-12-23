@@ -1,6 +1,6 @@
 
 # Return Refund and Exchange For WooCommerce
-! [Return Refund and Exchange For WooCommerce]('https://ps.w.org/woo-refund-and-exchange-lite/assets/banner-772x250)
+![Return Refund and Exchange For WooCommerce](https://ps.w.org/woo-refund-and-exchange-lite/assets/banner-772x250)
 * Contributors:MakeWebBetter
 * Author URI: http://makewebbetter.com/
 * Tags: return,refund, woocommerce,exchange,RMA,woocommerce RMA,RMA for return refund and exchange
