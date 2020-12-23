@@ -84,25 +84,12 @@ _Make a smart move with [**Premium Version of Refund and Exchange**](https://mak
 ## SUPPORT
 If you need support or have any question then kindly use our online chat window [here](https://makewebbetter.com/?utm_source=MWB-RMA-git&utm_medium=MWB-git-page&utm_campaign=MWB-RMA-git) or connect with us then [Generate a Ticket](https://makewebbetter.com/submit-query/)
 
-## FAQ
-### How to setup the Refund Products?
-Please reach the woocommerce menu -> Refund Exchange Lite Configuration setting -> Click on the Refund Product -> Enable Refund Request setting.
+### **MORE ABOUT MAKEWEBBETTER**
 
-### How to place the Refund button in Thank you and My-Account page?
-You can easily go to the Woocommerce -> Settings -> Refund Exchange Lite setting ->Refund Products and set the following points.
-1) Enable Refund Request.
-2) Set a maximum number of days.
-3) Select the order status in which the order can be refunded.
+- [**Our Official Website**](https://makewebbetter.com/?utm_source=MWB-upsell-git&utm_medium=MWB-git&utm_campaign=git)
+- [**Follow us on Facebook Page**](https://www.facebook.com/makewebbetter)
+- [**Tweet us on @MakeWebBetter**](https://twitter.com/makewebbetter)
+- [**Visit our LinkedIn Account**](https://www.linkedin.com/company/makewebbetter)
+- [**Subscribe To Our YouTube Channel**](https://www.youtube.com/channel/UC7nYNf0JETOwW3GOD_EW2Ag)
+- [**Follow Our SlideShare**](https://www.slideshare.net/MakeWebBetter)
 
-### How to set the order status for the orders which need to be refunded?
-It's a very easy way, go to the Woocommerce -> Settings ->Refund Exchange Lite setting ->Refund  Products and Select the order status in which the order can be Refund.
-
-### How to use a mail configuration setting?
-1) Refund Exchange Lite Setting -> Mail configuration -> Basic setting -> Set header.  
-2) Refund Exchange Lite Setting -> Mail configuration ->Refund ->and then fill  all details.
-
-### Can a customer and admin communicate while processing a refund request?
-Yes, customers and admin can communicate while processing a refund request. The whole process goes under a dedicated and streamlined system which would help to keep both the parties on the same note.
-
-### How can a customer send an attachment with a refund request?
-When a customer clicks on the refund button then on the refund request form customer will get an option to upload the attachment. Customers can also add more than one attachment in their request.
