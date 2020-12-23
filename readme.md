@@ -11,8 +11,7 @@ _HIGHEST-RATED REFUND AND EXCHANGE MANAGEMENT PLUGIN THAT LIFTS CUSTOMER SATISFA
 
 **Return Refund and Exchange for WooCommerce** lets you create a simple refund management system stuffed with an organized exchange, wallet, cancel features. It saves time on complaints, calls disputes, and the hurdles of managing stock. Customers can request full or partial refunds from their accounts with a justification statement. The whole process goes under a dedicated and streamlined mailing system that keeps both parties on the same note. Ultimately leads to easy returns & increased customer satisfaction.
 
-[![Watch the video](https://i.ytimg.com/vi/z0kG75E60TI/maxresdefault.jpg)](https://youtu.be/z0kG75E60TI)
-
+[Return Refund and Exchange for WooCommerce Free Version Demo Video 2020](https://youtu.be/z0kG75E60TI)
 
 ## WITH THE RETURN REFUND AND EXCHANGE FOR WOOCOMMERCE PLUGIN YOU CAN:
 - Return an order after delivery
